@@ -19,7 +19,13 @@
         "SessionCounts": false
       },
       "EvalAccess": [],
-      "SessionSetAccess": []
+      "SessionSetAccess": [       
+        {
+          "ApplicableFrom": null,
+          "ApplicableTo": null,
+          "Identifier": "My Schedule"
+        }
+      ]
     },
     {
       "Identifiers": [
